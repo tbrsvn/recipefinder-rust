@@ -1,7 +1,7 @@
 # Recipe Finder
 A simple Rust program that finds recipes with the ingredients you provide
 
-This program requires you to create your own JSON called recipes.json, as I'm not sure if I can distribute mine.
+This program requires you to create your own JSON called ```recipes.json```, or run ```download.py``` with git installed.
 The format for each recipe should go something like this:
 ```
 {
