@@ -1,5 +1,5 @@
 # Recipe Finder
-A simple Rust program that finds recipes with the ingredients you provide
+A simple Rust program I made for the 2023 County Fair that finds recipes with the ingredients you provide.
 
 This program requires you to create your own JSON called ```recipes.json```, or run ```download.py``` with git installed.
 The format for each recipe should go something like this:
